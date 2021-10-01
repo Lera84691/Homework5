@@ -1,0 +1,31 @@
+#title{
+    color: green;
+}
+h2{
+    color: rgb(85, 194, 85);
+}
+.desc{
+     color: rgb(143, 209, 43);
+}
+.text{
+    color: rgb(211, 190, 0);
+}
+.list .content .link{
+    color: rgb(136, 12, 4);
+}
+#quote{
+    color: rgb(0, 138, 0);
+}
+.list .item{
+    color: limegreen;
+}
+.content{
+    color: rgb(187, 174, 0);
+}
+.copyright{
+    color: rgb(0, 139, 163);
+    }
+#specific{
+    color: rgb(33, 204, 235);
+}
+
